@@ -18,8 +18,8 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 All of my projects are available at <a href="www.github/Jorshuare">My GitHub</a>
 
-- 📝 I regularly write articles on my medium <a href="[https://www.w3schools.com/html/html_links.asp](https://medium.com/@joshuaogunlade)">W3school</a>
-
+- 📝 I regularly write articles on my medium <a href="https://medium.com/@joshuaogunlade">Medium</a>
+z
 - 💬 Ask me about **Python, Linux**
 
 - 📫 How to reach me **joshuaogunlade1@gmail.com**
