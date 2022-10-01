@@ -16,17 +16,15 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 I’m looking to collaborate on **Machine Learning projects, Python Projects**
 
-- 👨‍💻 All of my projects are available at [www.github/Jorshuare](www.github/Jorshuare)
+- 👨‍💻 All of my projects are available at <a href="www.github/Jorshuare">My GitHub</a>
 
-- 📝 I regularly write articles on my medium [https://medium.com/@joshuaogunlade](https://medium.com/@joshuaogunlade)
+- 📝 I regularly write articles on my medium <a href="[https://www.w3schools.com/html/html_links.asp](https://medium.com/@joshuaogunlade)">W3school</a>
 
 - 💬 Ask me about **Python, Linux**
 
 - 📫 How to reach me **joshuaogunlade1@gmail.com**
 
 - ⚡ Fun fact **I love adventures**
-
-<a href="https://www.w3schools.com/html/html_links.asp">W3school</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
