@@ -26,6 +26,8 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact **I love adventures**
 
+<a href="https://www.w3schools.com/html/html_links.asp">W3school</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/joshuaogunlade6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joshuaogunlade6" height="30" width="40" /></a>
