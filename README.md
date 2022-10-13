@@ -4,7 +4,7 @@ Jorshuare/Jorshuare is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Joshua</h1>
-<h3 align="center">A passionate Python programmer from Nigeria. I am a Machine Learning Enthusiast</h3>
+<h3 align="center">A passionate Python developer from Nigeria. I am a Software Engineering Intern and a Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorshuare&label=Profile%20views&color=0e75b6&style=flat" alt="jorshuare" /> </p>
 
